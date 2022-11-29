@@ -1,13 +1,13 @@
-## Hey, I'm [Peter Choi](https://github.com/peterchoi7/)
+## Hey, I'm [Bond Chaiprasit](https://github.com/bc15)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/peterchoi7)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thanachot-bond-chaiprasit-772144173/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://peterchoi7.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/peterchoiboi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/peter_choi_boi/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bond_1566/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=peterchoi7.peterchoi7&style=flat-square&color=0088cc)
 
-I'm currently studying Computer Science 🎓 at the University of California, Berkeley 🏛. 
+I'm a Junior currently studying Data Science & Economics 🎓 at the University of California, Berkeley 🏛. 
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
