@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Bond Chaiprasit and I am currently a student at the University of California, Berkeley studying Data Science and Economics. 
 
 <!--
 **bc15/bc15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
