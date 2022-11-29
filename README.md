@@ -19,7 +19,7 @@ I'm a Junior currently studying Data Science & Economics 🎓 at the University 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PeterChoi7).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: bc15@berkeley.edu.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/PeterChoi7/README.md/blob/master/PeterChoiResume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/bc15/bc15/blob/main/Bond_Chaiprasit_Resume_4.pdf).
 
 ### My Absolute Favorites:
 
