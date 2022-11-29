@@ -18,7 +18,7 @@ I'm a Junior currently studying Data Science & Economics 🎓 at the University 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PeterChoi7).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: peterchoi7250@berkeley.edu.
+- 📫 &nbsp; How to reach me: bc15@berkeley.edu.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/PeterChoi7/README.md/blob/master/PeterChoiResume.pdf).
 
 ### My Absolute Favorites:
