@@ -14,17 +14,16 @@ I'm a Junior currently studying Data Science & Economics 🎓 at the University 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m proficient in Python, Java, R, and HTML.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PeterChoi7).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bc15).
 - 📫 &nbsp; How to reach me: bc15@berkeley.edu.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/bc15/bc15/blob/main/Bond_Chaiprasit_Resume_4.pdf).
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; I love to play and watch soccer, and also like playing poker.
+- 📰 &nbsp; I love to play and watch basketball, and also like playing poker.
 - 🍕 &nbsp; Love to meet new people in general so don't be afraid to hit me up.
 
 ### Languages and Tools:
