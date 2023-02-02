@@ -14,7 +14,7 @@ I'm a Junior currently studying Data Science & Economics 🎓 at the University 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m proficient in Python, Java, R, and HTML.
+- 🛠 &nbsp; I’m proficient in Python, Java, R, and SQL.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bc15).
 - 📫 &nbsp; How to reach me: bc15@berkeley.edu.
