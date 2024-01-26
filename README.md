@@ -18,7 +18,7 @@ I'm a Junior currently studying Data Science & Economics 🎓 at the University 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bc15).
 - 📫 &nbsp; How to reach me: bc15@berkeley.edu.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/bc15/bc15/blob/main/Bond_Chaiprasit_Resume_4.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/bc15/bc15/blob/main/Bond_RESUME_2024.pdf).
 
 ### My Absolute Favorites:
 
